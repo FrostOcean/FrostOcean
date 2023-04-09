@@ -1,3 +1,5 @@
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frostocean&show_icons=true&locale=en&layout=compact" alt="frostocean" /></p>
+
 [![MasterHead](https://i.ytimg.com/vi/dLsk6Y6hq_o/maxresdefault.jpg)
 <h1 align="center">Hi 👋, I'm FrostOcean</h1>
 <h3 align="center">Make Impossible to possible</h3>
