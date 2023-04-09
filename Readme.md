@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm FrostOcean</h1>
 <h3 align="center">Make Impossible to possible</h3>
 
-<p align="left"> <img src="https://i.ytimg.com/vi/dLsk6Y6hq_o/maxresdefault.jpg alt="frostocean" /> </p>
+<p align="left"> <img src="https://i.ytimg.com/vi/dLsk6Y6hq_o/maxresdefault.jpg alt="frostocean"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frostocean" alt="frostocean" /></a> </p>
 
