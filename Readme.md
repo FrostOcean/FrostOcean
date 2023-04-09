@@ -7,23 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frostocean" alt="frostocean" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Website**
-
-- 🌱 I’m currently learning **All over the World**
-
-- 👯 I’m looking to collaborate on **Anyone**
-
-- 🤝 I’m looking for help with **Anyone**
-
-- 👨‍💻 All of my projects are available at [My Repository](My Repository)
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **@fardanzone@gmail.com**
-
-- ⚡ Fun fact **Always Low Profile i think**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codesandbox.com/pirdinosaurus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pirdinosaurus" height="30" width="40" /></a>
