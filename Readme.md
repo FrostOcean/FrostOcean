@@ -1,3 +1,6 @@
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frostocean&show_icons=true&locale=en" alt="frostocean" /></p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frostocean&show_icons=true&locale=en&layout=compact" alt="frostocean" /></p>
 
 [![MasterHead](https://i.ytimg.com/vi/dLsk6Y6hq_o/maxresdefault.jpg)
